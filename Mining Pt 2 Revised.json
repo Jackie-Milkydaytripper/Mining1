@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Mining Pt 2 Revised.data.unityweb",
+"asmCodeUrl": "Mining Pt 2 Revised.asm.code.unityweb",
+"asmMemoryUrl": "Mining Pt 2 Revised.asm.memory.unityweb",
+"asmFrameworkUrl": "Mining Pt 2 Revised.asm.framework.unityweb",
+"asmLibraryUrl": "Mining Pt 2 Revised.asm.library.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
